@@ -1,3 +1,8 @@
-# Fast AI Projects 
-Deep Neural Network Created Using FASTAI library 
+Deep Learning Projects done using by
+-Fast.ai
+-Numpy
+-Pandas
+-Sklearn
+-OpenCV
+-glob
 
